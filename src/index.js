@@ -11,7 +11,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 ReactDOM.render(
     <UserProvider>
         <ProductProvider>
-            <Router basename={'/react-shop-sample'}>
+            <Router basename={'/react-shop-sample/'}>
                 <Switch>
                     {/* This test route is for testing separate components */}
                     <Route exact path="/test" component={Test} />

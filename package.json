@@ -2,7 +2,7 @@
   "name": "store-sample",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hong-cai.github.io/react-contextAPI-firebase",
+  "homepage": "https://hong-cai.github.io/react-shop-sample",
   "dependencies": {
     "@babel/runtime": "^7.15.4",
     "@material-ui/core": "^4.4.2",
@@ -72,7 +72,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hong-cai/react-contextAPI-firebase.git"
+    "url": "https://github.com/hong-cai/react-shop-sample.git"
   },
   "keywords": [
     "react",
@@ -86,6 +86,6 @@
   "author": "Sophie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hong-cai/react-contextAPI-firebase/issues"
+    "url": "https://github.com/hong-cai/react-shop-sample/issues"
   }
 }
