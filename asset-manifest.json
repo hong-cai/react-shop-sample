@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-contextAPI-firebase/static/css/main.305efc51.chunk.css",
-    "main.js": "/react-contextAPI-firebase/static/js/main.a54585dc.chunk.js",
-    "main.js.map": "/react-contextAPI-firebase/static/js/main.a54585dc.chunk.js.map",
-    "runtime-main.js": "/react-contextAPI-firebase/static/js/runtime-main.052c163e.js",
-    "runtime-main.js.map": "/react-contextAPI-firebase/static/js/runtime-main.052c163e.js.map",
-    "static/css/2.27dd871e.chunk.css": "/react-contextAPI-firebase/static/css/2.27dd871e.chunk.css",
-    "static/js/2.a6d9b264.chunk.js": "/react-contextAPI-firebase/static/js/2.a6d9b264.chunk.js",
-    "static/js/2.a6d9b264.chunk.js.map": "/react-contextAPI-firebase/static/js/2.a6d9b264.chunk.js.map",
-    "index.html": "/react-contextAPI-firebase/index.html",
-    "static/css/2.27dd871e.chunk.css.map": "/react-contextAPI-firebase/static/css/2.27dd871e.chunk.css.map",
-    "static/css/main.305efc51.chunk.css.map": "/react-contextAPI-firebase/static/css/main.305efc51.chunk.css.map",
-    "static/js/2.a6d9b264.chunk.js.LICENSE.txt": "/react-contextAPI-firebase/static/js/2.a6d9b264.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/react-contextAPI-firebase/static/media/bg-spittle-texture.843519ba.jpg"
+    "main.css": "/react-shop-sample/static/css/main.805e6658.chunk.css",
+    "main.js": "/react-shop-sample/static/js/main.b776b302.chunk.js",
+    "main.js.map": "/react-shop-sample/static/js/main.b776b302.chunk.js.map",
+    "runtime-main.js": "/react-shop-sample/static/js/runtime-main.4f8aed08.js",
+    "runtime-main.js.map": "/react-shop-sample/static/js/runtime-main.4f8aed08.js.map",
+    "static/css/2.27dd871e.chunk.css": "/react-shop-sample/static/css/2.27dd871e.chunk.css",
+    "static/js/2.70a23721.chunk.js": "/react-shop-sample/static/js/2.70a23721.chunk.js",
+    "static/js/2.70a23721.chunk.js.map": "/react-shop-sample/static/js/2.70a23721.chunk.js.map",
+    "index.html": "/react-shop-sample/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/react-shop-sample/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.805e6658.chunk.css.map": "/react-shop-sample/static/css/main.805e6658.chunk.css.map",
+    "static/js/2.70a23721.chunk.js.LICENSE.txt": "/react-shop-sample/static/js/2.70a23721.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-shop-sample/static/media/bg-spittle-texture.843519ba.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.052c163e.js",
+    "static/js/runtime-main.4f8aed08.js",
     "static/css/2.27dd871e.chunk.css",
-    "static/js/2.a6d9b264.chunk.js",
-    "static/css/main.305efc51.chunk.css",
-    "static/js/main.a54585dc.chunk.js"
+    "static/js/2.70a23721.chunk.js",
+    "static/css/main.805e6658.chunk.css",
+    "static/js/main.b776b302.chunk.js"
   ]
 }
