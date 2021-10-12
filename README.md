@@ -15,7 +15,7 @@
 - Currently working on: Using firebase and store products to firestore
 - Currently working on: Using graphQL to request products details
 
-Demo: [https://hong-cai.github.io/react-shop-application-contextAPI-firebase](https://hong-cai.github.io/react-shop-application-contextAPI-firebase)
+Demo: [https://hong-cai.github.io/react-shop-sample](https://hong-cai.github.io/react-shop-sample)
 
 ### Features
 
